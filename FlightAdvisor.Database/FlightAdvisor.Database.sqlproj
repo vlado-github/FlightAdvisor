@@ -73,5 +73,6 @@
     <Build Include="dbo\Tables\__MigrationHistory.sql" />
     <Build Include="Security\flightadvisor.sql" />
     <Build Include="flightadvisor\Tables\Airports.sql" />
+    <Build Include="flightadvisor\Tables\Routes.sql" />
   </ItemGroup>
 </Project>
